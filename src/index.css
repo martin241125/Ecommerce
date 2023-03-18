@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+    .alert-danger {
+       @apply bg-red-600 rounded-lg shadow-md inline p-1 opacity-70
+    }
